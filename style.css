@@ -632,6 +632,14 @@ acronym[title] {
 .image-block-wrapper .image-block .image-block-bg.bg2 {
     background-image: url(style/images/hospital9.jpg)
 }
+.image-block1-wrapper1 .image-block1 .image-block-bg.bg11 {
+    background-image: url(style/images/market9.jpg)
+}
+.image-block1-wrapper1 .image-block1 .image-block-bg.bg21 {
+    background-image: url(style/images/market9.jpg)
+}
+
+
 .row.gutter60 {
     margin-left: -15px;
     margin-right: -15px
